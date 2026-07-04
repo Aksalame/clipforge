@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-uploads/*
-clips/*
-tmp/*
-!uploads/.gitkeep
-!clips/.gitkeep
-!tmp/.gitkeep
